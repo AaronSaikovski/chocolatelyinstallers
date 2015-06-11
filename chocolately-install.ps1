@@ -18,14 +18,14 @@ choco install lastpass-for-applications -y
 choco install keepass -y
 choco install ccleaner -y
 choco install vlc -y
-#choco install cmder -y
+choco install cmder -y
 choco install sourcetree -y
-choco install todoist -y
+#choco install todoist -y
 choco install cloudberryexplorer.azurestorage -y
 choco install cloudberryexplorer.amazons3 -y
 choco install foxitreader -y
 choco install sysinternals -y
-choco install console2 -y
+#choco install console2 -y
 choco install fiddler4 -y
 choco install paint.net -y
 choco install windowsazurepowershell -y
