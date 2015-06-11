@@ -44,7 +44,7 @@ choco install awstools.powershell -y
 #choco install aws-sdk-net -y
 #choco install vuzeclient -y
 choco install itunes -y
-choco install putty -y
+#choco install putty -y
 choco install winmerge -y
 
 cup all
