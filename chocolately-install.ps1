@@ -30,7 +30,7 @@ choco install fiddler4 -y
 choco install paint.net -y
 choco install windowsazurepowershell -y
 choco install git -y
-choco install gitextensions -y
+#choco install gitextensions -y
 choco install mysql.workbench -y
 choco install skype -y
 choco install spotify -y
