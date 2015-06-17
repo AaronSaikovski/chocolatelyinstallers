@@ -12,10 +12,10 @@ choco install filezilla -y
 choco install sublimetext3 -y
 choco install teamviewer -y
 choco install 7zip -y
-choco install notepadplusplus -y
+#choco install notepadplusplus -y
 choco install lastpass -y
-choco install lastpass-for-applications -y
-choco install keepass -y
+#choco install lastpass-for-applications -y
+#choco install keepass -y
 choco install ccleaner -y
 choco install vlc -y
 choco install cmder -y
@@ -31,6 +31,7 @@ choco install paint.net -y
 choco install windowsazurepowershell -y
 choco install git -y
 #choco install gitextensions -y
+choco install mysql
 choco install mysql.workbench -y
 choco install skype -y
 choco install spotify -y
@@ -45,6 +46,6 @@ choco install awstools.powershell -y
 #choco install vuzeclient -y
 choco install itunes -y
 ##choco install putty -y
-choco install winmerge -y
+#choco install winmerge -y
 
-cup all
+cup all -y
