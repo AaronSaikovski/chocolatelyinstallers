@@ -27,7 +27,7 @@ choco install spotify -y
 choco install steam -y
 choco install rdcman -y
 choco install itunes -y
-choco install putty.portable -y
+choco install putty -y
 choco install visualstudiocode -y
 choco install armclient -y
 choco install winrar -y
