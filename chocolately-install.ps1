@@ -34,6 +34,7 @@ choco install winrar -y
 choco install gimp -y
 choco install mysql.workbench -y
 choco install webpi -y
+choco install slack -y
 #choco uninstall boxstarter -y
 #choco install boxstarter.windowsupdate -y
 cup all -y
