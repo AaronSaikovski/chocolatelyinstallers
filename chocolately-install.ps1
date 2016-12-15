@@ -37,6 +37,7 @@ choco install webpi -y
 choco install slack -y
 #choco uninstall boxstarter -y
 #choco install boxstarter.windowsupdate -y
+choco install vuzeclient
 cup all -y
 
 #Windows update via boxstarter
