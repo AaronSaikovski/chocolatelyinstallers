@@ -19,10 +19,10 @@ choco install gitextensions -y
 #choco install gimp -y
 #choco install mysql.workbench -y
 #choco install webpi -y
-choco install vscode
-choco install azure-cli
-choco install bicep
-choco install slack
-choco install adobereader
+choco install vscode -y
+choco install azure-cli -y
+choco install bicep -y
+choco install slack -y
+choco install adobereader -y
 
 cup all -y
